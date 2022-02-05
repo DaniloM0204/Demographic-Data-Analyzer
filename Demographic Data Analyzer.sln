@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Demographic Data Analyzer", "Demographic Data Analyzer\Demographic Data Analyzer.pyproj", "{D86B285D-5B95-4DDC-8F2F-8884FF76E33D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D86B285D-5B95-4DDC-8F2F-8884FF76E33D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D86B285D-5B95-4DDC-8F2F-8884FF76E33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEB08EBE-9DE7-48AE-B6F7-CE078C310B4C}
+	EndGlobalSection
+EndGlobal
